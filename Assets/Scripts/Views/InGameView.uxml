@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/Views/InGameStyleSheet.uss?fileID=7433441132597879392&amp;guid=68ceb53338b504e70bb5ef6d8daf5140&amp;type=3"/>
+    <ui:VisualElement name="HeartContainer" style="flex-grow: 0;"/>
+</ui:UXML>

@@ -1,0 +1,31 @@
+#background {
+    width: 48px;
+    height: 38px;
+    margin: 0;
+    margin-right: 4px;
+    background-image: url("project://database/Assets/Textures/texture_health.png?fileID=-1430183547&guid=c6a5d8f137c3b404387dab5e7fbb0cf3&type=3#texture_health_5");
+}
+
+#health {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 48px;
+    height: 38px;
+}
+
+.health_1 #health {
+    background-image: url("project://database/Assets/Textures/texture_health.png?fileID=1140634060&guid=c6a5d8f137c3b404387dab5e7fbb0cf3&type=3#texture_health_1");
+}
+
+.health_2 #health {
+    background-image: url("project://database/Assets/Textures/texture_health.png?fileID=1896091282&guid=c6a5d8f137c3b404387dab5e7fbb0cf3&type=3#texture_health_2");
+}
+
+.health_3 #health {
+    background-image: url("project://database/Assets/Textures/texture_health.png?fileID=-1430889510&guid=c6a5d8f137c3b404387dab5e7fbb0cf3&type=3#texture_health_3");
+}
+
+.health_4 #health {
+    background-image: url("project://database/Assets/Textures/texture_health.png?fileID=273128640&guid=c6a5d8f137c3b404387dab5e7fbb0cf3&type=3#texture_health_4");
+}

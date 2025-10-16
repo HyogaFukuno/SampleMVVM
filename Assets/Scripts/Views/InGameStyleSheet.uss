@@ -1,0 +1,8 @@
+#HeartContainer {
+    padding: 24px;
+    width: 1280px;
+    height: 128px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
