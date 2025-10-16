@@ -412,7 +412,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c13572b38e0f4333b7257f34ee219e89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SampleMVVM.EntryPoint
-  maxHealth: 12
+  initialHealth: 12
+  maxHealth: 120
   document: {fileID: 2128125428}
   treeAsset: {fileID: 9197481963319205126, guid: b0758236fd9f74d19be0c87dcfd13349, type: 3}
 --- !u!4 &458454747
